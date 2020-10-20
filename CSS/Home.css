@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.btn1{
+    border: 5px solid cornflowerblue;
+    background-color: transparent;
+    margin: 15px;
+    text-align: center;
+    color: #fff;
+}
+.btn2{
+    border: 5px solid cornflowerblue;
+    background: transparent;
+    margin: 15px;
+    color: red;
+    text-align: center;
+}
+.btn1 a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.btn2 a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.Main
+{
+    text-align: center;
+    padding: 300px;
+}
+.btn3
+{
+    border: 2px solid #000;
+    padding: 30px 100px;
+    background-color: grey;
+}
+.btn3 a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.btn3 p{
+    color: #fff;
+    font-size: 20px;
+}

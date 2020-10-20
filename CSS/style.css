@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* name area section */
+header{
+    background-color: grey;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+header h1,h2{
+    padding-left: 100px;
+
+}
+header .Home-icon{
+    font-size: 30px;
+    text-align: right;
+    color: rgb(233, 96, 96);
+    padding-left: 100px;
+    text-decoration: none;
+}
+.icon{
+    font-size: 50px;
+    text-align: right;
+    color: red;
+    padding-right: 30px;
+}
+/* Notice */
+.Notice-line p{
+    font-size: 30px;
+    padding: 15px;
+    box-shadow: greenyellow;
+    background-color: ivory;
+    color: gray;
+}
+/* Main */
+.Butons{
+    background-color: aqua;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
+.btn{
+    border: 2px solid rgb(66, 64, 64);
+    background: whitesmoke;
+    padding: 20px 500px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 20px;
+}
+.btn a{
+    text-decoration: none;
+    color: #000;
+}
+.btn:hover{
+    background-color: yellow;
+}
+
